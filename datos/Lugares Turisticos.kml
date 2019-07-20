@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Lugares Turisticos</name>
+	<Placemark id="1.2.1">
+		<name>Cristo Redentor</name>
+		<address>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brasil</address>
+		<snippet>Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brasil</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="es-419"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Cristo Redentor" src="https://lh5.googleusercontent.com/-EFW9j2Or3xc/Wltf6vv0-7I/AAAAAAAA4Po/UU9WeYWzP1w-nx-kg-n2mWhQsJvqxze0QCLIBGAYYCw/w464-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Cristo Redentor</span>  -  <span class="Qfo35d">Estatua</span> </div> <div class="gr0Qde"> <div> Parque Nacional da Tijuca </div><div> Alto da Boa Vista </div><div> Rio de Janeiro - RJ </div><div> Brasil </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Estatua de Jesús de 30 m situada en la cima de un cerro; se puede acceder en tren y tiene vista a la ciudad.</div> <br>  <div class="VUd1Hd">Abre a las 08:00</div> <div class="kZ1n7c"> <a href="/url?q=https://cristoredentoroficial.com.br/&amp;sa=U&amp;ved=0ahUKEwjkvIXu15PdAhWuzlkKHdHhCx0Q61gICygGMAA&amp;usg=AOvVaw3E8hbiVNUMrx1ZoATmxnCC" target="_blank"> cristoredentoroficial.com.br </a> </div> <br>  <span class="Nqfqlb">4.7</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Cristo+Redentor,+Parque+Nacional+da+Tijuca+-+Alto+da+Boa+Vista,+Rio+de+Janeiro+-+RJ,+Brasil&amp;ludocid=11369764793252905694#lrd=0x997fd5984aa13f:0x9dc984d7019502de,1" target="_blank"> <span class="review-count">24,505 opiniones</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-22.951916&amp;lng=-43.210487199999996&amp;fid=0x997fd5984aa13f:0x9dc984d7019502de&amp;q=Cristo Redentor, Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brasil&amp;hl=es-419&amp;gl=ve&amp;client=earth-client&amp;cv=7.1.8.3036&amp;useragent=GoogleEarth/7.1.8.3036(Windows;Microsoft Windows (5.1.2600.3);es-419;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-43.2104872,-22.951916,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-43.21451618508868,-22.95493773881651,0 -43.21451618508868,-22.94889426118349,0 -43.20645821491132,-22.94889426118349,0 -43.20645821491132,-22.95493773881651,0 -43.21451618508868,-22.95493773881651,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Estatua de la Libertad</name>
+		<address>Nueva York, 10004, EE. UU.</address>
+		<phoneNumber>+1 212-363-3200</phoneNumber>
+		<snippet>Nueva York, 10004, EE. UU.</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="es-419"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Estatua de la Libertad" src="https://lh3.googleusercontent.com/-blm4ujAZgFk/Wy9f7-LLFxI/AAAAAAAANMA/tSDh5vuLzx4hIvAyz8trJ-wJowOp7u-vQCLIBGAYYCw/w459-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Estatua de la Libertad</span>  -  <span class="Qfo35d">Parque nacional</span> </div> <div class="gr0Qde"> <div> New York, NY 10004 </div><div> EE. UU. </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Emblemático monumento nacional inaugurado en 1886; cuenta con visitas guiadas, un museo y vista a la ciudad.</div> <br> <div class="gs8uRd"> +1 212-363-3200 </div> <div class="VUd1Hd">Abre a las 08:30</div> <div class="kZ1n7c"> <a href="/url?q=http://www.nps.gov/stli/index.htm&amp;sa=U&amp;ved=0ahUKEwj1zfDa2JPdAhVRs1kKHdGBDWoQ61gIDCgHMAA&amp;usg=AOvVaw12ood9Ohf2B10rF4KQqYnV" target="_blank"> nps.gov </a> </div> <br>  <span class="Nqfqlb">4.6</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Estatua+de+la+Libertad,+New+York,+NY+10004,+EE.+UU.&amp;ludocid=4667599994556318251#lrd=0x89c25090129c363d:0x40c6a5770d25022b,1" target="_blank"> <span class="review-count">33,140 opiniones</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=40.6892494&amp;lng=-74.04450039999999&amp;fid=0x89c25090129c363d:0x40c6a5770d25022b&amp;q=Estatua de la Libertad, New York, NY 10004, EE. UU.&amp;hl=es-419&amp;gl=ve&amp;client=earth-client&amp;cv=7.1.8.3036&amp;useragent=GoogleEarth/7.1.8.3036(Windows;Microsoft Windows (5.1.2600.3);es-419;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-74.04450039999999,40.6892494,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-74.0478180632449,40.68676115256632,0 -74.0478180632449,40.69173764743368,0 -74.04118273675508,40.69173764743368,0 -74.04118273675508,40.68676115256632,0 -74.0478180632449,40.68676115256632,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Torre Eiffel</name>
+		<address>Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Francia</address>
+		<phoneNumber>+33 892 70 12 39</phoneNumber>
+		<snippet>Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Francia</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="es-419"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Torre Eiffel" src="https://lh5.googleusercontent.com/-O0jJ3IDLhuk/WyJYcLOUfsI/AAAAAAAAACE/Ej6C2pHSzr0VolzwS0_2P2pcJLLKy1-NACLIBGAYYCw/w445-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Torre Eiffel</span>  -  <span class="Qfo35d">Torre</span> </div> <div class="gr0Qde"> <div> Champ de Mars </div><div> 5 Avenue Anatole France </div><div> 75007 Paris </div><div> Francia </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Famosa torre de hierro creada en 1889 por Gustave Eiffel, con escaleras y ascensores que conducen a miradores.</div> <br> <div class="gs8uRd"> +33 892 70 12 39 </div> <div class="VUd1Hd">Abre a las 09:00</div> <div class="kZ1n7c"> <a href="/url?q=http://www.toureiffel.paris/&amp;sa=U&amp;ved=0ahUKEwiT6P_w2JPdAhXFp1kKHR-MARYQ61gIDigJMAA&amp;usg=AOvVaw0yRzB4pOfVlh6K07LdKtlR" target="_blank"> toureiffel.paris </a> </div> <br>  <span class="Nqfqlb">4.6</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Torre+Eiffel,+Champ+de+Mars,+5+Avenue+Anatole+France,+75007+Paris,+Francia&amp;ludocid=10222232094831998944#lrd=0x47e66e2964e34e2d:0x8ddca9ee380ef7e0,1" target="_blank"> <span class="review-count">82,942 opiniones</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=48.858370099999995&amp;lng=2.2944812999999997&amp;fid=0x47e66e2964e34e2d:0x8ddca9ee380ef7e0&amp;q=Torre Eiffel, Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Francia&amp;hl=es-419&amp;gl=ve&amp;client=earth-client&amp;cv=7.1.8.3036&amp;useragent=GoogleEarth/7.1.8.3036(Windows;Microsoft Windows (5.1.2600.3);es-419;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>2.2944813,48.8583701,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					2.291602641997593,48.85621110649819,0 2.291602641997593,48.8605290935018,0 2.297359958002406,48.8605290935018,0 2.297359958002406,48.85621110649819,0 2.291602641997593,48.85621110649819,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Gran Pirámide de Guiza</name>
+		<address>Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate, Egipto</address>
+		<snippet>Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate, Egipto</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="es-419"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Gran Pirámide de Guiza" src="https://lh4.googleusercontent.com/-owfoPMZzTUg/WsZ5To0KpiI/AAAAAAAAvss/KY9nfZY0Pg4HGsaaPjd5kYDPnZ_NgtwUQCLIBGAYYCw/w443-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Gran Pirámide de Guiza</span>  -  <span class="Qfo35d">Pirámide</span> </div> <div class="gr0Qde"> <div> Al Haram </div><div> Nazlet El-Semman </div><div> Al Haram </div><div> Giza Governorate, Egipto </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">La mayor de las pirámides de Egipto, situada en un complejo que incluye templos y otros artefactos antiguos.</div> <br>  <div class="VUd1Hd">Abre a las 08:00</div> <div class="kZ1n7c"> <a href="#" target="_blank">  </a> </div> <br>  <span class="Nqfqlb">4.5</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Gran+Pir%C3%A1mide+de+Guiza,+Al+Haram,+Nazlet+El-Semman,+Al+Haram,+Giza+Governorate,+Egipto&amp;ludocid=9298859280971408420#lrd=0x14584587ac8f291b:0x810c2f3fa2a52424,1" target="_blank"> <span class="review-count">7,587 opiniones</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=29.9792345&amp;lng=31.1342019&amp;fid=0x14584587ac8f291b:0x810c2f3fa2a52424&amp;q=Gran Pirámide de Guiza, Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate, Egipto&amp;hl=es-419&amp;gl=ve&amp;client=earth-client&amp;cv=7.1.8.3036&amp;useragent=GoogleEarth/7.1.8.3036(Windows;Microsoft Windows (5.1.2600.3);es-419;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>31.1342019,29.9792345,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					31.13041191571705,29.97639201178778,0 31.13041191571705,29.98207698821221,0 31.13799188428295,29.98207698821221,0 31.13799188428295,29.97639201178778,0 31.13041191571705,29.97639201178778,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Taj Mahal</name>
+		<address>Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India</address>
+		<snippet>Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India</snippet>
+		<description><![CDATA[<!DOCTYPE html><html lang="es-419"> <head> <style>body{font-family:Roboto,Arial,sans-serif}.DiVP2e{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}.X6ZKdd{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}.gr0Qde{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}.Nqfqlb{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}.OTInGb,.hSSRhf,.xDQDq{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}.hSSRhf{background-position:-13px 0}.xDQDq{background-position:-25px 0}.Qfo35d{font-size:12px;margin-bottom:2px}.gs8uRd{font-size:14px;margin-bottom:2px}.JByhjc{font-size:14px;margin-bottom:2px;margin-top:5px}.iWlmL{font-size:14px;margin-bottom:2px;margin-top:5px}.OYCkv{font-size:14px;margin-bottom:2px;margin-top:5px}.VUd1Hd{font-size:14px;margin-bottom:2px}.jK1Lre{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}.PQWkDb{overflow:hidden;display:inline-block;vertical-align:top;position:relative}.giiMnc{font-size:10px;font-style:italic}.ncIaof{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="DiVP2e"> <div class="tg0Ii"> <div class="PQWkDb"> <img alt="Taj Mahal" src="https://lh4.googleusercontent.com/-hArIIkzMS3o/WzOyaNx2jWI/AAAAAAABfx8/HClAGpeoLRomhjvqK0D6MTBdR5Ntj5lmwCLIBGAYYCw/w458-h306-k-no/" width="100%"> </div> </div> <br> <div> <span class="X6ZKdd">Taj Mahal</span>  -  <span class="Qfo35d">Monumento</span> </div> <div class="gr0Qde"> <div> Dharmapuri, Forest Colony, Tajganj </div><div> Agra, Uttar Pradesh 282001 </div><div> India </div> </div> <div class="JByhjc">   </div>  <div class="OYCkv">Mausoleo de mármol del siglo XVII estilo mogol; tiene minaretes, mezquita y jardines famosos por su simetría.</div> <br>  <div class="VUd1Hd"></div> <div class="kZ1n7c"> <a href="/url?q=http://www.tajmahal.gov.in/&amp;sa=U&amp;ved=0ahUKEwjGs7rQ2ZPdAhUtqlkKHdHeB4cQ61gICigFMAA&amp;usg=AOvVaw365CHD3Ll1Y4nOCkHZkUdN" target="_blank"> tajmahal.gov.in </a> </div> <br>  <span class="Nqfqlb">4.6</span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>    <span class="OTInGb"></span>   <span class="hSSRhf"></span>    <span class="reviews"> <a href="http://www.google.com/search?q=Taj+Mahal,+Dharmapuri,+Forest+Colony,+Tajganj,+Agra,+Uttar+Pradesh+282001,+India&amp;ludocid=15936801470875598302#lrd=0x39747121d702ff6d:0xdd2ae4803f767dde,1" target="_blank"> <span class="review-count">91,807 opiniones</span></a> </span> <div class="Hb2bEc">  </div> </div> </body> </html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=27.171738549999997&amp;lng=78.04641995&amp;fid=0x39747121d702ff6d:0xdd2ae4803f767dde&amp;q=Taj Mahal, Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India&amp;hl=es-419&amp;gl=ve&amp;client=earth-client&amp;cv=7.1.8.3036&amp;useragent=GoogleEarth/7.1.8.3036(Windows;Microsoft Windows (5.1.2600.3);es-419;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>78.0421552,27.1750151,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

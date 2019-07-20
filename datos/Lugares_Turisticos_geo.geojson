@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Cristor Redentor", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -43.210311143170109, -22.951251571176631, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Estatua de la Libertad", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -74.044542316911205, 40.689330508775683, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Torre Eiffel", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 2.294186649661807, 48.858436332732019, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Gran Pirámide de Giza", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 31.13396049448847, 29.9798844130889, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Taj Mahal", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 78.04218100832135, 27.17499154197618, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mi ubicación Jorge Viloria", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -71.313535937096319, 10.2119510622564, 0.0 ] } }
+]
+}
