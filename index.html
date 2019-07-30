@@ -23,7 +23,7 @@
 	    <p>Nombre: Jorge</p>
 	    <p>Apellido: Viloria</p>
 	    <p>Profesión: Msc en SIG</p>
-	    <p>Edad: 49 años</p>
+	    <p>Edad: 50 años</p>
 	    <p>Dirección: Ciudad Ojeda  Venezuela</p>
 	    <p>Ubicación Geográfica:</p>
 	    <p>Latitud: <strong>10.211966</strong> </p>
@@ -41,8 +41,7 @@
 		     maxZoom: 18, 
 		     id: 'mapbox.streets'
 	         }).addTo(mapag);
-	      L.marker([10.211966, -71.313521]).addTo(mapag).bindPopup("<b>¡Hola!</b> soy <b>Jorge</b><br/>mi dirección").openPopup();
-		  
+	      L.marker([10.211966, -71.313521]).addTo(mapag).bindPopup("<b>¡Hola!</b> soy <b>Jorge</b><br/>mi dirección").openPopup();	  
 		  <!-- Crea el mapa de detalle -->
           var mapad = L.map('pano').setView([10.211966, -71.313521], 18);
              L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 20, id: 'mapbox.streets'}).addTo(mapad);
