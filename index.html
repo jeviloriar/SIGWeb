@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+  <head>
+   <!-- Configuración y datos de interés para el navegador web -->
+    <title> EJERCIIO PRÁCTICO SIG WEB </title>
+    <meta name="author" content="Jorge Viloria" />
+    <meta name="description" content="curso SIG WEB" />
+    <meta charset="utf-8" /> 
+     <script src="js/leaflet.js"></script>
+	  <!-- Carga los archivos externos de estilo y la libreria de funciones js -->	
+     <link rel="stylesheet" href="css/leaflet.css">
+     <link rel="stylesheet" href="css/estilo.css"> 
+  </head>
+  <body>
+    <img id="logo"src="imagenes/aulasig.jpg" alt="logo">
+    <div id="titulo">
+        <h1>EJERCICIO PRÁCTICO: SIGWEB</h1>
+        <h2>Tema 4. Aplicaciones Web. Aprendiendo HTML/CSS/JS</h2>
+    </div>
+	<!-- Datos personales del estudiante -->
+    <div id="datos">
+        <h2>Datos Personales</h2>
+	    <p>Nombre: Jorge</p>
+	    <p>Apellido: Viloria</p>
+	    <p>Profesión: Msc en SIG</p>
+	    <p>Edad: 49 años</p>
+	    <p>Dirección: Ciudad Ojeda  Venezuela</p>
+	    <p>Ubicación Geográfica:</p>
+	    <p>Latitud: <strong>10.211966</strong> </p>
+	    <p>Longitud: <strong>-71.313521</strong></p>
+        <img id="FotoCarnet"src="imagenes/carnet.jpg" alt="Foto">
+    </div>  
+	<!-- Desplegar las dos ventanas de los mapas -->
+    <div id="map"></div>
+    <div id="pano"></div>
+      <script>
+	     <!-- Crea el mapa general -->
+	     var mapag = L.map('map').setView([10.211966, -71.313521], 12);
+             L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+		     center: [10.211966, -71.313521],
+		     maxZoom: 18, 
+		     id: 'mapbox.streets'
+	         }).addTo(mapag);
+	      L.marker([10.211966, -71.313521]).addTo(mapag).bindPopup("<b>¡Hola!</b> soy <b>Jorge</b><br/>mi dirección").openPopup();
+		  
+		  <!-- Crea el mapa de detalle -->
+          var mapad = L.map('pano').setView([10.211966, -71.313521], 18);
+             L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 20, id: 'mapbox.streets'}).addTo(mapad);
+	      L.marker([10.211966, -71.313521]).addTo(mapad).bindPopup("<b>Residencias Canaima</b><br/>Apartamento 2").openPopup();
+	      L.circle([10.211966, -71.313521], 80, {color: 'red', fillColor: '#f03', fillOpacity: 0.25
+	      }).addTo(mapad).bindPopup("Área de Influencia"); L.polygon([
+	         [10.2118248,-71.3132079],
+		     [10.2116205,-71.3135693],
+		     [10.2119402,-71.3137525],
+	         [10.2118545,-71.3139081],
+		     [10.2120401,-71.3140100],
+		     [10.2121408,-71.3138131],
+		     [10.2122959,-71.3138819],
+		     [10.2124594,-71.3135498],
+		     [10.2121637,-71.3133861]
+	      ]).addTo(mapad).bindPopup("Residencias Canaima");
+      </script>
+  </body>
+</html>
